@@ -1,0 +1,21 @@
+.bgcr{
+    background-color: red;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.bgcg{
+    background-color: green;
+    color: white;
+}
+
+tr:hover{
+    background-color: rgb(12, 15, 236);
+}
+
+tr:hover > td{
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+}

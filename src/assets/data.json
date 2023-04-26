@@ -1,0 +1,229 @@
+{
+    "Sheet1": [
+      {
+        "No": 1,
+        "Name": "Rahul",
+        "Ticketnumber": 101,
+        "RatingGrade": 7,
+        "ExamGrade": 8,
+        "FinalGrade": 7.6,
+        "Status": "Passed"
+      },
+      {
+        "No": 2,
+        "Name": "Aman",
+        "Ticketnumber": 102,
+        "RatingGrade": 8,
+        "ExamGrade": 9,
+        "FinalGrade": 8.6,
+        "Status": "Passed"
+      },
+      {
+        "No": 3,
+        "Name": "Rohan",
+        "Ticketnumber": 103,
+        "RatingGrade": 9,
+        "ExamGrade": 7,
+        "FinalGrade": 7.8,
+        "Status": "Passed"
+      },
+      {
+        "No": 4,
+        "Name": "Amit",
+        "Ticketnumber": 104,
+        "RatingGrade": 6,
+        "ExamGrade": 6,
+        "FinalGrade": 6,
+        "Status": "Passed"
+      },
+      {
+        "No": 5,
+        "Name": "Sumit",
+        "Ticketnumber": 105,
+        "RatingGrade": 5,
+        "ExamGrade": 5,
+        "FinalGrade": 5,
+        "Status": "Passed"
+      },
+      {
+        "No": 6,
+        "Name": "Samrat",
+        "Ticketnumber": 106,
+        "RatingGrade": 8,
+        "ExamGrade": 8,
+        "FinalGrade": 8,
+        "Status": "Passed"
+      },
+      {
+        "No": 7,
+        "Name": "Alia",
+        "Ticketnumber": 107,
+        "RatingGrade": 9,
+        "ExamGrade": 7,
+        "FinalGrade": 7.8,
+        "Status": "Passed"
+      },
+      {
+        "No": 8,
+        "Name": "Aniket",
+        "Ticketnumber": 108,
+        "RatingGrade": 4,
+        "ExamGrade": 6,
+        "FinalGrade": 5.2,
+        "Status": "Passed"
+      },
+      {
+        "No": 9,
+        "Name": "Rocky",
+        "Ticketnumber": 109,
+        "RatingGrade": 4,
+        "ExamGrade": 3,
+        "FinalGrade": 3.4,
+        "Status": "Failed"
+      },
+      {
+        "No": 10,
+        "Name": "Rohit",
+        "Ticketnumber": 110,
+        "RatingGrade": 9,
+        "ExamGrade": 8,
+        "FinalGrade": 8.4,
+        "Status": "Passed"
+      },
+      {
+        "No": 11,
+        "Name": "Baljit",
+        "Ticketnumber": 111,
+        "RatingGrade": 6,
+        "ExamGrade": 7,
+        "FinalGrade": 6.5,
+        "Status": "Passed"
+      },
+      {
+        "No": 12,
+        "Name": "Daman",
+        "Ticketnumber": 112,
+        "RatingGrade": 7,
+        "ExamGrade": 1,
+        "FinalGrade": 3.4,
+        "Status": "Failed"
+      },
+      {
+        "No": 13,
+        "Name": "Gurdeep",
+        "Ticketnumber": 113,
+        "RatingGrade": 8,
+        "ExamGrade": 8,
+        "FinalGrade": 8,
+        "Status": "Passed"
+      },
+      {
+        "No": 14,
+        "Name": "Palak",
+        "Ticketnumber": 114,
+        "RatingGrade": 7,
+        "ExamGrade": 7,
+        "FinalGrade": 7,
+        "Status": "Passed"
+      },
+      {
+        "No": 15,
+        "Name": "Navi",
+        "Ticketnumber": 115,
+        "RatingGrade": 5,
+        "ExamGrade": 9,
+        "FinalGrade": 7.35,
+        "Status": "Passed"
+      },
+      {
+        "No": 16,
+        "Name": "Mohan",
+        "Ticketnumber": 116,
+        "RatingGrade": 7,
+        "ExamGrade": 4,
+        "FinalGrade": 5.2,
+        "Status": "Passed"
+      },
+      {
+        "No": 17,
+        "Name": "Tanu",
+        "Ticketnumber": 117,
+        "RatingGrade": 3,
+        "ExamGrade": 8,
+        "FinalGrade": 6,
+        "Status": "Passed"
+      },
+      {
+        "No": 18,
+        "Name": "Guri",
+        "Ticketnumber": 118,
+        "RatingGrade": 1,
+        "ExamGrade": 6,
+        "FinalGrade": 3.6,
+        "Status": "Failed"
+      },
+      {
+        "No": 19,
+        "Name": "Tania",
+        "Ticketnumber": 119,
+        "RatingGrade": 8,
+        "ExamGrade": 5,
+        "FinalGrade": 6.2,
+        "Status": "Passed"
+      },
+      {
+        "No": 20,
+        "Name": "Hari",
+        "Ticketnumber": 120,
+        "RatingGrade": 0,
+        "ExamGrade": 6,
+        "FinalGrade": 3.6,
+        "Status": "Failed"
+      },
+      {
+        "No": 21,
+        "Name": "Jasmeet",
+        "Ticketnumber": 121,
+        "RatingGrade": 8,
+        "ExamGrade": 7,
+        "FinalGrade": 7.4,
+        "Status": "Passed"
+      },
+      {
+        "No": 22,
+        "Name": "Honey",
+        "Ticketnumber": 122,
+        "RatingGrade": 8,
+        "ExamGrade": 9,
+        "FinalGrade": 8.6,
+        "Status": "Passed"
+      },
+      {
+        "No": 23,
+        "Name": "Mandeep",
+        "Ticketnumber": 123,
+        "RatingGrade": 3,
+        "ExamGrade": 4,
+        "FinalGrade": 3.6,
+        "Status": "Failed"
+      },
+      {
+        "No": 24,
+        "Name": "Amu",
+        "Ticketnumber": 124,
+        "RatingGrade": 7,
+        "ExamGrade": 7,
+        "FinalGrade": 7,
+        "Status": "Passed"
+      },
+      {
+        "No": 25,
+        "Name": "Harry",
+        "Ticketnumber": 125,
+        "RatingGrade": 8,
+        "ExamGrade": 6,
+        "FinalGrade": 6.8,
+        "Status": "Passed"
+      }
+    ]
+  }
